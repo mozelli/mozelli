@@ -1,4 +1,4 @@
-### Welcom into my lovely repository!
+### Welcome into my lovely repository!
 
 <!--
 **mozelli/mozelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
